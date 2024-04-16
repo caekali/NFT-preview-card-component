@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://your-solution-url.com)
+- Live Site URL: [Deployed Site](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,7 +41,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@CaesarKalikunde](https://www.frontendmentor.io/profile/CaesarKalikunde)
+- LinkedIn - [@CaesarKalikunde](https://www.linkedin.com/in/caesar-kalikunde-ba62532a9/)
 
