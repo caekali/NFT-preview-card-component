@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Deployed Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-I4W3fuLaGm)
+- Live Site URL: [Deployed Site](https://caesarkalikunde.github.io/NFT-preview-card-component/)
 
 ## My process
 
