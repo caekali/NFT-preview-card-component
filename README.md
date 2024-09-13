@@ -41,6 +41,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@CaesarKalikunde](https://www.frontendmentor.io/profile/CaesarKalikunde)
+- Frontend Mentor - [@CaesarKalikunde](https://www.frontendmentor.io/profile/CaeKali)
 - LinkedIn - [@CaesarKalikunde](https://www.linkedin.com/in/caesar-kalikunde-ba62532a9/)
 
