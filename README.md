@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-I4W3fuLaGm)
-- Live Site URL: [Deployed Site](https://caesarkalikunde.github.io/NFT-preview-card-component/)
+- Live Site URL: [Deployed Site](https://caekali.github.io/NFT-preview-card-component/)
 
 ## My process
 
